@@ -26,6 +26,7 @@ Screen de la console :
 C] Stocker les préférences utilisateurs 
 
 CI-JOINT AU  MAIL : APK DU TP 
+
 Interface utilisateur: 
 
 ![Image](https://github.com/Chiriusse/LPSIL_KS/tree/master/images/appMobile.png)
