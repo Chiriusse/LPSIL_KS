@@ -4,7 +4,7 @@ TD2 : BDD d’une Application Cliente Mobile
 A] Etude des données d’une application mobile 
 1)
 
-![Image](https://github.com/Chiriusse/LPSIL_KS/tree/master/images/shemas.png)
+![Image](https://github.com/Chiriusse/LPSIL_KS/tree/master/images/shemas.png?raw=true "title")
 
 2) Pour le stockage locales sous Android on choisit une base de donnée locale a l’app.
 
